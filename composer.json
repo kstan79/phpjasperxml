@@ -2,7 +2,7 @@
     "name": "ldubois/phpjasperxml",
     "description": "export XML",
     "license": "MIT",
-    "type": "cakephp",
+    "type": "cakephp-plugin",
     "authors": [
         {
             "name": "Ludo D",
