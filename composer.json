@@ -1,0 +1,15 @@
+{
+    "name": "ldubois/phpjasperxml",
+    "description": "export XML",
+    "license": "MIT",
+    "type": "cakephp",
+    "authors": [
+        {
+            "name": "Ludo D",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    }
+}
