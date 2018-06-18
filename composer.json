@@ -6,10 +6,15 @@
     "authors": [
         {
             "name": "Ludo D",
-            "role": "Developer"
+            "role": "Developper"
         }
     ],
     "require": {
         "php": ">=7.0"
-    }
+    },
+	"autoload": {
+        "psr-4": {
+            "PHPJasperXML\\": "PHPJasperXML/class"
+        }
+    },
 }
